@@ -1,0 +1,7 @@
+# project
+private/
+geckodriver.log
+
+# general
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+767 Sinsu-ro Suji-gu	1	16827	767, Sinsu-ro, Suji-gu, Yongin-si, Gyeonggi-do	899, Dongcheon-dong, Suji-gu, Yongin-si, Gyeonggi-do	경기도 용인시 수지구  신수로 767(동천동)	경기도 용인시 수지구 동천동  899 / 분당수지 U-TOWER	37.34542056293287	127.13264263328257
+46-2 Deokguoncheon-ro Uljin	1	36305	46-2, Deokguoncheon-ro Buk-myeon, Uljin-gun, Gyeongsangbuk-do	361-17, Bugu-ri, Buk-myeon, Uljin-gun, Gyeongsangbuk-do	경상북도 울진군 북면  덕구온천로 46-2	경상북도 울진군 북면 부구리 361-17 / 로즈마리	37.12011759626864	129.3373274411628
+159 Doryeong-ro  Jeju	1	63116	159, Doryeong-ro, Jeju-si, Jeju-do	1787, Yongdam 2(i)-dong, Jeju-si, Jeju-do	제주특별자치도 제주시  도령로 159(용담이동)	제주특별자치도 제주시 용담이동  1787	33.47403860813577	126.49382083003559
+강서구 화곡6동 1110-6	1	07653	40, Gonghang-daero 46-gil, Gangseo-gu, Seoul	1110-6, Hwagok-dong, Gangseo-gu, Seoul	서울특별시 강서구  공항대로46길 40(화곡동)	서울특별시 강서구 화곡동  1110-6 / 대원빌딩	37.56442620575133	126.89234651331833
