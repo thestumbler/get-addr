@@ -7,7 +7,8 @@ this site searches for a match and displays all matches,
 only one match if your input string was good enough.
 The search string can be in English or Korean,
 and the site serves up both the English and Korean
-results in one call.
+results in one call.  This is true for the Korean
+language search page, too.
 
 ## Program usage
 
